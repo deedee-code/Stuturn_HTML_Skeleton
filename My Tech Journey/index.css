@@ -1,0 +1,39 @@
+body {
+    background-color: white;
+    font-family: 'Times New Roman', Times, serif;
+    border: 2px dashed white;
+    padding: 10px;
+    margin: 15px;
+    border-radius: 50px;
+}
+
+.first {
+    color: green;
+    font-size: 14px;
+    text-align: center;
+}
+
+.second {
+    color: red;
+    font-size: 14px;
+    text-align: center;
+}
+
+.third {
+    color: blue;
+    font-size: 14px;
+    text-align: center;
+}
+
+#heading {
+    font-size: 18px;
+}
+
+.section-break {
+    background-color: transparent;
+    border: 0;
+    border-top: 1px dashed;
+    height: 1px;
+    margin: 2rem auto;
+    width: 20%
+}
