@@ -1,0 +1,16 @@
+body {
+    color: green;
+}
+
+.main {
+    color: blue;
+}
+
+#sub_main {
+    color: red;
+}
+
+div {
+    border: 2px dotted black;
+    border-radius: 70px;
+}
